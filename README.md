@@ -1,8 +1,8 @@
 ## Hi there, welcome to my profile 👋
 
-- 📚 I'm a 4th year student at Toronto Metropolitan University
+- 📚 I'm a Comp Sci graduate from Toronto Metropolitan University
 - 🌱 Always learning about exciting front and back-end technology
-- 💼 I’m currently applying to full-stack intern and junior dev positions
+- 💼 I’m currently applying to entry level developer positions
 - 📫 You can reach me at colorfulmulberry@gmail.com
 
 <!--
